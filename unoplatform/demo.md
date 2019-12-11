@@ -21,4 +21,13 @@
 
 ![Uno Platform Solution Templatesインストール](./resources/00-ExtensionInstall.png)
 
-## 
+## demo
+
+1. VSを起動して**新しいテンプレートの作成**を行う
+2. テンプレートの検索から`uno`を検索
+![Unoを検索](./resources/01-find_uno.png)
+3. `Cross-Platform App (Uno Platform)`を選択して`次へ`をクリック
+4. 適当なプロジェクト名を入力して`作成`をクリック
+5. [プロジェクト名].[Shared]にApp.xaml, MainPage.xamlなどの主要XAMLファイルがある
+6. 各プロジェクトで実行
+
